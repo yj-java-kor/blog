@@ -25,7 +25,7 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "윤진이의 개발일지"
     remote:         false
     localpath:      "about"
  
