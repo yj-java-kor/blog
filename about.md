@@ -1,5 +1,5 @@
 ---
-title: 윤진이의 개발일지
+title: 윤진이의 개발일지  
 permalink: /about/
 ---
 
